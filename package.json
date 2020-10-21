@@ -1,0 +1,31 @@
+{
+  "name": "emailsender",
+  "version": "1.0.0",
+  "description": "Servidor de correo masivo para email marketing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobAvila/eMailSender.git"
+  },
+  "keywords": [
+    "email",
+    "email",
+    "marketing",
+    "correo",
+    "masivo"
+  ],
+  "author": "Jacobsoft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobAvila/eMailSender/issues"
+  },
+  "homepage": "https://github.com/JacobAvila/eMailSender#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.14"
+  }
+}
